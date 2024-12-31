@@ -1,9 +1,14 @@
 ## Hi there 👋
-My name is Minh, I'm currently a Postdoctoral Researcher at University of New South Wales focusing on the application of Deep Learning in Cancer Research. 
+My name is Minh, I'm currently a Postdoctoral Researcher at University of New South Wales focusing on the application of Deep Learning in Clinical Research. 
 
 - 💬 Tech stack: Python, R, and Javascript (For some reason, I know a bit of Groovy)
+- 🔭 I’m currently using Large Language Models, Image Segmentation/Processing to develop analysis methods for Electronic Medical Records, Microscopic Images, Clinical Trial Description from cancer patients. 
+- 👯 I collaborate with clinician/oncologist (I can understand their language) and bioinformatician (I am actually bioinformatician) to develop new packages (or improve exisiting libraries) for computational models in precision oncology. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhtran1309&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Google Scholar](icon/icon.svg)](https://scholar.google.com/citations?user=twz8PzYAAAAJ&hl=en)
+
 <!--
 **minhtran1309/minhtran1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
