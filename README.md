@@ -7,9 +7,12 @@ My name is Minh, I'm currently a Postdoctoral Researcher at University of New So
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhtran1309&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Google Scholar](icon/google-scholar.svg)](https://scholar.google.com/citations?user=twz8PzYAAAAJ)  
-Find my published papers at [Google Scholar](https://scholar.google.com/citations?user=twz8PzYAAAAJ).
-
+<p>
+  <a href="https://scholar.google.com/citations?user=YOUR_USER_ID">
+    <img src="icon/google-scholar.svg" alt="Google Scholar" width="20" height="20">
+  </a>
+  Find my published papers at <a href="https://scholar.google.com/citations?user=twz8PzYAAAAJ">Google Scholar</a>.
+</p>
 <!--
 **minhtran1309/minhtran1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
