@@ -1,5 +1,9 @@
 ## Hi there 👋
+My name is Minh, I'm currently a Postdoctoral Researcher at University of New South Wales focusing on the application of Deep Learning in Cancer Research. 
 
+- 💬 Tech stack: Python, R, and Javascript (For some reason, I know a bit of Groovy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhtran1309&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **minhtran1309/minhtran1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
