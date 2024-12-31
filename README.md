@@ -14,7 +14,7 @@ My name is Minh, I'm currently a Postdoctoral Researcher at University of New So
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhtran1309&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhtran1309&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhtran1309&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
