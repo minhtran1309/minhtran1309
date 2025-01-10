@@ -16,6 +16,7 @@ My name is Minh, I'm currently a Postdoctoral Researcher at University of New So
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhtran1309&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhtran1309&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=minhtran1309)
 
 <!--
 **minhtran1309/minhtran1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
