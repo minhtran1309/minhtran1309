@@ -12,12 +12,18 @@ My name is Minh, I'm currently a Postdoctoral Researcher at University of New So
   </a>
   Find my published papers at <a href="https://scholar.google.com/citations?user=twz8PzYAAAAJ">Google Scholar</a>.
 </p>
+
+<details>
+  <summary>:zap: Top Langs</summary>
+
+  <img align="left" alt="minhtran1309's GitHub Stats" src="https://github-readme-stats-pi-ten-52.vercel.app/api/top-lang/?username=minhtran1309&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide_rank=true" />
+
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="minhtran1309's GitHub Stats" src="https://github-readme-stats-pi-ten-52.vercel.app/api?username=minhtran1309&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="minhtran1309's GitHub Stats" src="https://github-readme-stats-pi-ten-52.vercel.app/api?username=minhtran1309&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide_rank=true" />
 
 </details>
 
