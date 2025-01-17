@@ -12,13 +12,22 @@ My name is Minh, I'm currently a Postdoctoral Researcher at University of New So
   </a>
   Find my published papers at <a href="https://scholar.google.com/citations?user=twz8PzYAAAAJ">Google Scholar</a>.
 </p>
+</details>
 
-[![Top Langs]([https://github-readme-stats.vercel.app](https://github-readme-stats-min-chans-projects-28b06e1e.vercel.app/)/api/top-langs/?username=minhtran1309&theme=radical&hide_rank=true)](https://github.com/minhtran1309/github-readme-stats)
-[![Minh's GitHub stats](h[ttps://github-readme-stats.vercel.app](https://github-readme-stats-min-chans-projects-28b06e1e.vercel.app/)/api?username=minhtran1309&theme=radical&hide_rank=true)](https://github.com/minhtran1309/github-readme-stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="minhtran1309's GitHub Stats" src="https://github-readme-stats-pi-ten-52.vercel.app/api?username=minhtran1309&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=minhtran1309)
 
 <!--
+
+[![Top Langs]([https://github-readme-stats.vercel.app](https://github-readme-stats-min-chans-projects-28b06e1e.vercel.app/)/api/top-langs/?username=minhtran1309&theme=radical&hide_rank=true)](https://github.com/minhtran1309/github-readme-stats)
+[![Minh's GitHub stats](h[ttps://github-readme-stats.vercel.app](https://github-readme-stats-min-chans-projects-28b06e1e.vercel.app/)/api?username=minhtran1309&theme=radical&hide_rank=true)](https://github.com/minhtran1309/github-readme-stats)
 **minhtran1309/minhtran1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
