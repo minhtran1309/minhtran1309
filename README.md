@@ -13,8 +13,8 @@ My name is Minh, I'm currently a Postdoctoral Researcher at University of New So
   Find my published papers at <a href="https://scholar.google.com/citations?user=twz8PzYAAAAJ">Google Scholar</a>.
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhtran1309&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhtran1309&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app](https://github-readme-stats-min-chans-projects-28b06e1e.vercel.app/)/api/top-langs/?username=minhtran1309&theme=radical&hide_rank=true)](https://github.com/minhtran1309/github-readme-stats)
+[![Minh's GitHub stats](h[ttps://github-readme-stats.vercel.app](https://github-readme-stats-min-chans-projects-28b06e1e.vercel.app/)/api?username=minhtran1309&theme=radical&hide_rank=true)](https://github.com/minhtran1309/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=minhtran1309)
 
