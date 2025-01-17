@@ -16,7 +16,7 @@ My name is Minh, I'm currently a Postdoctoral Researcher at University of New So
 <details>
   <summary>:zap: Top Langs</summary>
 
-  <img align="left" alt="minhtran1309's GitHub Stats" src="https://github-readme-stats-pi-ten-52.vercel.app/api/top-lang/?username=minhtran1309&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide_rank=true" />
+  <img align="left" alt="minhtran1309's GitHub Stats" src="https://github-readme-stats-pi-ten-52.vercel.app/api/top-langs/?username=minhtran1309&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide_rank=true" />
 
 </details>
 
